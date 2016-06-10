@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "mjml": "^1.0.3"
+    "mjml": "^2.2.0"
   },
   "name": "jstransformer-mjml",
   "version": "0.0.1",

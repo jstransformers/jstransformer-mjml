@@ -3,7 +3,7 @@
     "mjml": "^3.0.2"
   },
   "name": "jstransformer-mjml",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "MJML support for JSTransformers.",
   "keywords": [
     "jstransformer"

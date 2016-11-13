@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.0: 2016-11-13
+
+- Update to `mjml@^3.0.2`
+
 ## v0.1.0: 2016-06-10
 
 - Update to `mjml@^2.2.0`

@@ -1,5 +1,7 @@
 # jstransformer-mjml
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-mjml.svg)](https://greenkeeper.io/)
+
 [MJML](https://github.com/mjmlio/mjml) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-mjml/master.svg)](https://travis-ci.org/jstransformers/jstransformer-mjml)

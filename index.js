@@ -1,11 +1,11 @@
 'use strict'
 
-var mjml = require('mjml')
+const mjml = require('mjml')
 
 exports.name = 'mjml'
 exports.outputFormat = 'html'
 
 exports.render = function (str) {
-  var result = mjml.mjml2html(str)
+  const result = mjml.mjml2html(str)
   return result.html
 }

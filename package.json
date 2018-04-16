@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "mjml": "^3.0.2"
+    "extend-shallow": "^3.0.2",
+    "mjml": "^4.0.3"
   },
   "name": "jstransformer-mjml",
   "version": "0.2.1",
